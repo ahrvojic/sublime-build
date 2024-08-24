@@ -1,5 +1,5 @@
 {
-    "name": "Odin",
+    "selector": "source.odin",
     "cmd": ["odin", "build", "."],
     "file_regex": "^(.+)\\((\\d+):(\\d+)\\) (.+)$"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "OCaml",
+    "selector": "source.ml | source.mli | source.ocaml",
     "cmd": ["dune", "build"],
     "file_regex": "^File \"\\S+/(\\S+)\", line (\\d+)",
     "env": {
