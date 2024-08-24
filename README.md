@@ -1,2 +1,3 @@
-# sublime-build-systems
-Sublime Text build systems
+# sublime-build
+
+Various build systems for [Sublime Text](https://www.sublimetext.com).
